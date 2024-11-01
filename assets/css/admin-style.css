@@ -1,0 +1,11 @@
+/*
+Editor css
+*/
+.code_text_box {
+    width: 100%;
+}
+
+.wplp_code_snippet_label {
+    font-size: 14px;
+    font-family: "system-ui";
+}
